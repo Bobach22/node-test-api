@@ -1,5 +1,5 @@
 
 export interface DogResponse{
-    fileSizeBytes:string;
+    fileSizeBytes:number;
     url:string;
 }
